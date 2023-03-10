@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amr Allam</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amriallam" alt="amriallam" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amriallam" alt="amriallam" /></a> </p>
 
 - 🔭 I’m currently working on **E-Commerce Project**
 
@@ -16,7 +16,7 @@
 - 📫 How to reach me **amr.i.allam@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="middle">
+<p align="left">
 <a href="https://linkedin.com/in/amr-i-allam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amr-i-allam" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/amrallam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amrallam" height="30" width="40" /></a>
 </p>
