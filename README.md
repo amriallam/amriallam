@@ -16,7 +16,7 @@
 - 📫 How to reach me **amr.i.allam@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="middle">
 <a href="https://linkedin.com/in/amr-i-allam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amr-i-allam" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/amrallam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amrallam" height="30" width="40" /></a>
 </p>
