@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **E-Commerce Project**
 
-- 🌱 I’m currently learning **new technologies**
-
 - 👯 I’m looking to collaborate on **Full stack projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amriallam?tab=repositories](https://github.com/amriallam?tab=repositories)
