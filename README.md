@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amr Allam</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amriallam" alt="amriallam" /></a> </p>
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amriallam" alt="amriallam" /></a> 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+</p>
+
 
 - 🔭 I’m currently working on **E-Commerce Project**
 
