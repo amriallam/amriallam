@@ -7,7 +7,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **E-Commerce Project**
+- 🔭 I’m currently working at **Almatar App**
 
 - 👯 I’m looking to collaborate on **Full stack projects**
 
